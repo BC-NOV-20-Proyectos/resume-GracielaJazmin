@@ -56,7 +56,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-       I'm a person interested in technology, that looks to be better in the that make, I focus on the area of web design, I like to create the design of web pages as well as create and manage Data Base. I am a programmer that learns more in the practice, also I love learning things.
+    I'm a person interested in technology, that looks to be better in the that make, I focus on the area of web design, I like to create the design of web pages as well as create and manage Data Base. I am a programmer that learns more in the practice, also I love learning things.
     I love watching Korean series and listening to music, it is the best way to relax.
     I'm a software engineering student, I like to learn new things about technologies and put into practice all my knowledge, I am a person creative, and with the availability of new challenges, I have an open mind about making new things and disposition in the teamwork.
     also always, I am looking for the way be of better persona in the ambit labor and personal. I want to become in senior developer and to work in a company with bigger ideas about innovations, and also work out of the country and known for being good in the that I do.
@@ -66,7 +66,6 @@ educationcomplete:
   - degree: Software Engineering
     university: Universidad de Colima
     time: 2017 Ago - current
-    details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -74,7 +73,7 @@ experiences:
     time: 2020 
     company: Schoolar proyect
     details: |
-       I was the person in charge of testing a survey system that was being created as part of our school project, my task was to check that when creating a survey, it was displayed correctly to the user.
+      I was the person in charge of testing a survey system that was being created as part of our school project, my task was to check that when creating a survey, it was displayed correctly to the user.
       As well as writing the user manual, which showed the description of how the whole system worked from the user's perspective.
 
   - role: Designer of Page web
